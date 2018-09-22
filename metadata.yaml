@@ -1,0 +1,30 @@
+_repo: Poro-kirja_55245
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kianto, Ilmari
+    alias: Calamnius, Ilmari
+    birthdate: 1874
+    deathdate: 1970
+    gutenberg_agent_id: '44960'
+    url: http://www.gutenberg.org/2009/agents/44960
+description: ''
+gutenberg_issued: '2017-08-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55245'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Reindeer -- Finland'
+- !lcc 'SF'
+- GITenberg
+tableOfContents: 'Porourheilijan juhlapuhe -- "Hihhei taas!" -- Miten porolla ajetaan?
+  -- "Juokse porosein!" -- Suomen poroalue -- "Voisikko ajatella että etelässäkin…?"
+  -- Poro-pakinaa -- Pororetki Vienan Karjalaan -- Vapunpäivä korvessa -- Talviretki
+  Näljängälle -- Hangella -- "Karavaani Karjalaan" -- Porourheilun ylistys -- Poropäivät
+  -- Liite: Poromiehen taskusanakirjasta. Peura ja pulkka (porojuhlaruno).'
+title: Poro-kirja
+url: http://www.gutenberg.org/ebooks/55245
